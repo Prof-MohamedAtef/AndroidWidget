@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWidget</string>
+    <string name="appwidget_text">COVID-19</string>
+</resources>
